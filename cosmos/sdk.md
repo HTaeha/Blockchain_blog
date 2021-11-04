@@ -249,7 +249,7 @@ Transaction이 블록체인에 들어와서 실행되는 방식으로 유저들�
   * 곧 AnteHandler로 넘어감.
 * &#x20;AnteHandler
   * Ante는 포커용어에서 나온 것. 게임 시작 전에 의무적으로 넣는 돈을 의미한다. 판돈. 취소할 수 없음.
-  * Transaction을 날릴 때 최소한의 노, 최소한의 수수료는 한번 차감되고 다시는 회복되지 않는다.&#x20;
+  * Transaction을 날릴 때 최소한의 노력, 최소한의 수수료는 한번 차감되고 다시는 회복되지 않는다.&#x20;
   * Transaction 실행에 가장 기본적인 operation들.
     * 서명확인
     * 수수료 차감
@@ -263,7 +263,7 @@ Transaction이 블록체인에 들어와서 실행되는 방식으로 유저들�
 
 본질적으로는 메세지의 나열이다.&#x20;
 
-이더리움에서는 contract에 ERC20토큰을 보내는 것이 굉장히 불편하다. 토큰 contract에 이 contract이 토큰을 가져갈 수 있다는 것을 허용해주어야 하고 그 다음 실제로 그 contract가 내 계좌의 토큰을 꺼내가도록 해야 함.  즉 2번의 transaction이 연관된다. &#x20;
+이더리움에서는 contract에 ERC20토큰을 보내는 것이 굉장히 불편하다. 토큰 contract에 이 contract가 토큰을 가져갈 수 있다는 것을 허용해주어야 하고 그 다음 실제로 그 contract가 내 계좌의 토큰을 꺼내가도록 해야 한다.  즉 2번의 transaction이 연관된다. &#x20;
 
 이러한 귀찮음을 방지하기 위해 한 transaction에 여러가지 Message가 포함될 수 있도록 했다.&#x20;
 
