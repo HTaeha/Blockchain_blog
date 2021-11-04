@@ -38,14 +38,18 @@
 
 ## COSMOS
 
-* [Tutorials](cosmos/untitled.md)
-* [1. Blog](cosmos/1.-blog.md)
-* [Nameservice](cosmos/nameservice.md)
 * [코스모스 SDK](cosmos/sdk.md)
 * [코스모스 SDK 실습 - nameservice](cosmos/sdk-nameservice.md)
 * [코스모스 허브는 어떻게 사용하는가?](cosmos/undefined.md)
 * [코스모스 허브, 금융의 역사를 다시 쓰다](cosmos/undefined-1.md)
 * [Tendermint](cosmos/tendermint.md)
+
+## Cosmos Tutorial
+
+* [Tutorials](cosmos-tutorial/untitled.md)
+* [1. Blog](cosmos-tutorial/1.-blog.md)
+* [Nameservice](cosmos-tutorial/nameservice.md)
+* [\[Starport\] Escrow Account: Scavenge](cosmos-tutorial/starport-escrow-account-scavenge.md)
 
 ## Ethereum
 
