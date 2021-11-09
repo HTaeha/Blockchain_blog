@@ -50,6 +50,7 @@
 * [1. Blog](cosmos-tutorial/1.-blog.md)
 * [Nameservice](cosmos-tutorial/nameservice.md)
 * [\[Starport\] Escrow Account: Scavenge](cosmos-tutorial/starport-escrow-account-scavenge.md)
+* [\[Starport\] Inter-Blockchain Communication: Basics](cosmos-tutorial/starport-inter-blockchain-communication-basics.md)
 
 ## Ethereum
 
