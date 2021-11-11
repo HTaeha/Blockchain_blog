@@ -75,3 +75,7 @@
 ## cryptosystem
 
 * [대칭키 암호](cryptosystem/untitled.md)
+
+## Social token
+
+* [Rally](social-token/rally.md)
