@@ -1,4 +1,4 @@
-# Bitclout
+# Deso: The Decentralized Social Network
 
 ## Consensus
 
@@ -16,7 +16,7 @@ Creator coin은 100개에서 1500 사이로 존재할 수 있다.
 
 CC가 많이 발행될수록 가격이 올라간다.
 
-![](<../.gitbook/assets/Untitled (1) (1).png>)
+![](<../../.gitbook/assets/Untitled (1) (1).png>)
 
 ## Creator
 

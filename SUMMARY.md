@@ -79,5 +79,7 @@
 ## Social token
 
 * [Rally](social-token/rally.md)
-* [Bitclout](social-token/bitclout.md)
-* [Develop Bitclout](social-token/develop-bitclout.md)
+* [Bitclout](social-token/bitclout/README.md)
+  * [Deso: The Decentralized Social Network](social-token/bitclout/deso-the-decentralized-social-network.md)
+  * [Setting Up Your Dev Environment](social-token/bitclout/setting-up-your-dev-environment.md)
+  * [Deso Code Walkthrough](social-token/bitclout/deso-code-walkthrough.md)
