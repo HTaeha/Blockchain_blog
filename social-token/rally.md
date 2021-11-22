@@ -59,7 +59,7 @@ Coin community에 보상이 주어지고 해당 커뮤니티의 코인을 보유
 
 * 코인 보상 예시
 
-![](../.gitbook/assets/Untitled.png)
+![](<../.gitbook/assets/Untitled (1).png>)
 
 * Community Activity Reward는 어디서 오는가?
   * $RLY의 Network Usage Rewards으로부터 나온다.
