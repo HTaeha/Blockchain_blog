@@ -51,6 +51,11 @@
 * [Nameservice](cosmos-tutorial/nameservice.md)
 * [\[Starport\] Escrow Account: Scavenge](cosmos-tutorial/starport-escrow-account-scavenge.md)
 * [\[Starport\] Inter-Blockchain Communication: Basics](cosmos-tutorial/starport-inter-blockchain-communication-basics.md)
+* [Create an IBC Interchain Exchange module](cosmos-tutorial/create-an-ibc-interchain-exchange-module/README.md)
+  * [Introduction](cosmos-tutorial/create-an-ibc-interchain-exchange-module/introduction.md)
+  * [App Design](cosmos-tutorial/create-an-ibc-interchain-exchange-module/app-design.md)
+  * [Initialize the Blockchain](cosmos-tutorial/create-an-ibc-interchain-exchange-module/initialize-the-blockchain.md)
+  * [Create the Order Book](cosmos-tutorial/create-an-ibc-interchain-exchange-module/create-the-order-book.md)
 
 ## Ethereum
 
@@ -62,7 +67,7 @@
 
 * [Start](go-web\_server/untitled.md)
 
-## consensus <a href="blockchain" id="blockchain"></a>
+## consensus <a href="#blockchain" id="blockchain"></a>
 
 * [DPoS](blockchain/dpos.md)
 * [PBFT](blockchain/pbft.md)
