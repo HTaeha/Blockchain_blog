@@ -126,4 +126,4 @@ LP 들은 전체 LP token풀 중에서 자기 LP token의 지분만큼 수수료
 
 ## Reference
 
-[https://www.youtube.com/watch?v=CU7ZKnDqhUA\&t=225s](https://www.youtube.com/watch?v=CU7ZKnDqhUA\&t=225s)
+{% embed url="https://www.youtube.com/watch?t=225s&v=CU7ZKnDqhUA" %}
