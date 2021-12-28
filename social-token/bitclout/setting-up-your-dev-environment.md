@@ -86,7 +86,7 @@ script 실행 후 보안상의 이유 때문에 flag를 다시 원래 설정으�
 
 bitclout frontend는 17001번 포트에 backend API 요청을 한다. 17001은 메인넷 포트이고 18001이 테스트 포트이다. 따라서 test 노드를 돌렸으면 frontend와 연결이 되어 있지 않다. 테스트넷과 연결하기 위해서는 frontend에서 포트 번호를 변경해야 한다.
 
-![](../../.gitbook/assets/Untitled.png)
+![](<../../.gitbook/assets/Untitled (1).png>)
 
 위 사진처럼 lastLocalNodeV2 를 17001에서 18001로 바꾼 후 다시 실행하자.
 

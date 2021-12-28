@@ -31,7 +31,7 @@ Transaction을 받는 체인에게 승인이 된 후에 양쪽 blockchain에서 
 
 * 발신 chain은 추가적으로 postID 데이터를 가진다.
 
-![](<../.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (31) (1).png>)
 
 1. 제목과 내용을 담은 post packet을 보낸다.
 2. 만약에 Mars에 제 시간에 도착하지 못하면 TimedoutPosts에 추가된다.

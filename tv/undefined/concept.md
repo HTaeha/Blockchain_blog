@@ -28,13 +28,13 @@ Hayden Adams는 원래 기계공학자였는데 회사에서 잘리고 이더리
 * k : 상수
 * 두 토큰의 수량을 곱해서 상수가 나오도록 하는 것이 CPMM
 
-
+![](../../.gitbook/assets/Untitled.png)
 
 #### 예시
 
 ETH 10개와 OMG 500개가 있어서 두 코인의 수량의 곱이 5000으로 맞춰지는 스마트 컨트랙트가 있다고 하자.
 
-
+![](<../../.gitbook/assets/Untitled (2).png>)
 
 1. 1 ETH를 OMG로 바꾸려고 한다.
    * 1 ETH를 컨트랙트에 보낸다.
@@ -43,7 +43,7 @@ ETH 10개와 OMG 500개가 있어서 두 코인의 수량의 곱이 5000으로 �
    * 1 ETH를 OMG로 바꾸려고 한 사람은 500-454.5를 해서 45.5OMG를 받는다.
    * 1:45.5 의 교환 비율
 
-
+![](<../../.gitbook/assets/Untitled (5).png>)
 
 1. 또 한번 1 ETH를 OMG로 바꾸려고 한다.
    * ETH의 수량이 11개에서 12개로 변한다.
@@ -78,7 +78,7 @@ AMM은 효율적이지만 컨트랙트 주소는 그다지 효율적이지 않�
 
 Factory contract에는 모든 토큰 pair들에 대한 컨트랙트들의 address가 들어있다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19d3df6f-5d9f-4311-9965-f915bfd7b95c/Untitled.png)
+![](<../../.gitbook/assets/Untitled (4).png>)
 
 #### 예시
 
@@ -88,7 +88,7 @@ Factory contract에는 모든 토큰 pair들에 대한 컨트랙트들의 addres
 4. ETH-DAI pair에 대한 Token Exchange 컨트랙트 주소를 찾는다.
 5. AMM에 의해 교환이 이루어진다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ada8588-f833-4d0d-bdf1-814fc2f74429/Untitled.png)
+![](<../../.gitbook/assets/Untitled (7).png>)
 
 ## LP Tokens
 
@@ -100,7 +100,7 @@ LP (Liquidity Provider) : 유동성 공급자
 * LP token은 reserve를 withdraw할 때 받을 수 있는 token 양과 매핑된다.
 * 또한, LP token은 Uniswap에서 token을 swap한 trader들이 낸 수수료(0.3%)를 전체 token pool에서 자신의 LP token의 지분만큼 요청할 수 있다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/098ec8b0-5cf1-4380-90bf-a5a1d2f32a48/Untitled.png)
+![](<../../.gitbook/assets/Untitled (3).png>)
 
 #### 예시
 
@@ -122,7 +122,7 @@ LP 들은 전체 LP token풀 중에서 자기 LP token의 지분만큼 수수료
 
 유니스왑은 Ethereum Foundation, Paradigm 등 여러 곳에서 투자를 받았다. 2200억원 정도의 유동성을 공급하고 있고 유니스왑은 다른 거래소들에 비해 수수료가 저렴하다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45e64460-d801-4bc4-b0a0-c26e9d01b533/Untitled.png)
+![](<../../.gitbook/assets/Untitled (6).png>)
 
 ## Reference
 
