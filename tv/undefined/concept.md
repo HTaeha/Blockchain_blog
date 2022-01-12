@@ -34,7 +34,7 @@ Hayden Adams는 원래 기계공학자였는데 회사에서 잘리고 이더리
 
 ETH 10개와 OMG 500개가 있어서 두 코인의 수량의 곱이 5000으로 맞춰지는 스마트 컨트랙트가 있다고 하자.
 
-![](<../../.gitbook/assets/Untitled (2).png>)
+![](<../../.gitbook/assets/Untitled (2) (1).png>)
 
 1. 1 ETH를 OMG로 바꾸려고 한다.
    * 1 ETH를 컨트랙트에 보낸다.
@@ -88,7 +88,7 @@ Factory contract에는 모든 토큰 pair들에 대한 컨트랙트들의 addres
 4. ETH-DAI pair에 대한 Token Exchange 컨트랙트 주소를 찾는다.
 5. AMM에 의해 교환이 이루어진다.
 
-![](<../../.gitbook/assets/Untitled (7).png>)
+![](<../../.gitbook/assets/Untitled (7) (1).png>)
 
 ## LP Tokens
 
@@ -122,7 +122,7 @@ LP 들은 전체 LP token풀 중에서 자기 LP token의 지분만큼 수수료
 
 유니스왑은 Ethereum Foundation, Paradigm 등 여러 곳에서 투자를 받았다. 2200억원 정도의 유동성을 공급하고 있고 유니스왑은 다른 거래소들에 비해 수수료가 저렴하다.
 
-![](<../../.gitbook/assets/Untitled (6).png>)
+![](<../../.gitbook/assets/Untitled (6) (1).png>)
 
 ## Reference
 
