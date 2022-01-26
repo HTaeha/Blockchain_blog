@@ -42,7 +42,9 @@
 * [코스모스 SDK 실습 - nameservice](cosmos/sdk-nameservice.md)
 * [코스모스 허브는 어떻게 사용하는가?](cosmos/undefined.md)
 * [코스모스 허브, 금융의 역사를 다시 쓰다](cosmos/undefined-1.md)
-* [Tendermint](cosmos/tendermint.md)
+* [Tendermint](cosmos/tendermint/README.md)
+  * [ABCI](cosmos/tendermint/abci.md)
+  * [Messages](cosmos/tendermint/messages.md)
 
 ## Cosmos Tutorial
 

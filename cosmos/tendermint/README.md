@@ -18,8 +18,8 @@ description: Cosmos에서 합의 알고리즘과 네트워킹 부분을 담당�
 
 텐더민트를 설명할 때 부분 동기 모델이라는 단어가 나온다. 텐더민트를 비롯한 많은 BFT 계열 알고리즘이 부분 동기 모델을 사용한다. 부분 동기 모델에 대한 설명은 아래 페이지에서 살펴보자.&#x20;
 
-{% content-ref url="../blockchain/network-model.md" %}
-[network-model.md](../blockchain/network-model.md)
+{% content-ref url="../../blockchain/network-model.md" %}
+[network-model.md](../../blockchain/network-model.md)
 {% endcontent-ref %}
 
 #### Termination
