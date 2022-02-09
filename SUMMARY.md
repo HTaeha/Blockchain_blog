@@ -91,6 +91,7 @@
   * [Deso: The Decentralized Social Network](social-token/bitclout/deso-the-decentralized-social-network.md)
   * [Setting Up Your Dev Environment](social-token/bitclout/setting-up-your-dev-environment.md)
   * [Deso Code Walkthrough](social-token/bitclout/deso-code-walkthrough.md)
+  * [Web3 Will Not Be Built on Smart Contracts](social-token/bitclout/web3-will-not-be-built-on-smart-contracts.md)
 
 ## 재윤TV
 
