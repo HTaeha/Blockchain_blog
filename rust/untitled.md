@@ -43,6 +43,8 @@ description: 러스트에 대해 간단히 알아보자.
 3. Cloudflare
 4. Dropbox
 5. AWS Lambda
+6. CosmWasm
+7. Solana Smart contract
 
 ## Reference
 
@@ -51,3 +53,4 @@ Rust Crash Course | Rustlang\
 
 {% embed url="https://www.youtube.com/watch?v=zF34dRivLOw" %}
 
+{% embed url="https://rinthel.github.io/rust-lang-book-ko" %}

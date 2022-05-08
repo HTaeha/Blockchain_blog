@@ -19,6 +19,8 @@
 
 * [Start](rust/untitled.md)
 * [Basic](rust/basic.md)
+* [Basic Programming Concepts](rust/basic-programming-concepts/README.md)
+  * [Variables and Mutability](rust/basic-programming-concepts/variables-and-mutability.md)
 
 ## Bitcoin
 

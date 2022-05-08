@@ -25,7 +25,6 @@ So simple!
 * cargo build\
   실행은 하지 않고 빌드만 한다.\
   cargo build --release 명령어를 실행하면 release 폴더가 생성되고 optimize된 파일이 생긴다.
-*
 
 {% embed url="https://www.rust-lang.org/learn/get-started" %}
 
