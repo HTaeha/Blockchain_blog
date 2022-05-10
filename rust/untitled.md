@@ -4,6 +4,8 @@ description: 러스트에 대해 간단히 알아보자.
 
 # Start
 
+나는 CosmWasm으로 블록체인 스마트 컨트랙트를 구현해보고 싶어서 러스트 공부를 시작한다. 앞으로 러스트에 대해 기본적인 것들을 빠르게 공부하고 정리하려고 하고 러스트에 대해 알게된 것, 정리하고 싶은 내용들을 정리하려고 한다!
+
 ## Pros
 
 1. Memory management
@@ -32,10 +34,6 @@ description: 러스트에 대해 간단히 알아보자.
 1. 배우기 어렵다.&#x20;
 2. 자료가 많지 않다.&#x20;
 
-
-
-공부하면서 단점에 대해서 추가해보도록 하겠습니다...
-
 ## 사용하는 회사
 
 1. Libra - Facebook 에서 만든 암호화폐
@@ -47,7 +45,10 @@ description: 러스트에 대해 간단히 알아보자.
 ## Reference
 
 Rust Crash Course | Rustlang\
-아래 동영상과 함께 러스트를 공부해보겠습니다.
+아래 동영상과 함께 러스트를 공부해보려고 한다.
 
 {% embed url="https://www.youtube.com/watch?v=zF34dRivLOw" %}
 
+아래 러스트 프로그래밍 공식 가이드 번역본으로 공부해보려고 한다.
+
+{% embed url="https://rinthel.github.io/rust-lang-book-ko" %}

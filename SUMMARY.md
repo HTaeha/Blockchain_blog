@@ -67,19 +67,11 @@
 * [Gas](ethereum/gas.md)
 * [Oracle Problem](ethereum/oracle-problem.md)
 
-## GO-WEB\_SERVER
-
-* [Start](go-web\_server/untitled.md)
-
 ## consensus <a href="#blockchain" id="blockchain"></a>
 
 * [DPoS](blockchain/dpos.md)
 * [PBFT](blockchain/pbft.md)
 * [Network model](blockchain/network-model.md)
-
-## PROJECTS
-
-* [HIPO](projects/hipo.md)
 
 ## cryptosystem
 
