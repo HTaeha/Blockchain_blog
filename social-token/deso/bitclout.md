@@ -1,4 +1,4 @@
-# Deso: The Decentralized Social Network
+# Bitclout
 
 ## Consensus
 
@@ -55,6 +55,6 @@ Post마다 Social tip을 줄 수 있다.
 
 ## Reference
 
-[https://bitclout.com/](https://bitclout.com)
+[https://bitclout.com/](https://bitclout.com/)
 
-[https://docs.deso.org/](https://docs.deso.org)
+[https://docs.deso.org/](https://docs.deso.org/)

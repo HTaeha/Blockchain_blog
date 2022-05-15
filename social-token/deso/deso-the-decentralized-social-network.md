@@ -91,6 +91,6 @@ DeSo NFT는 사용자가 NFT를 프로필에 게시하고 댓글, 좋아요 등�
 
 ## Reference
 
-[https://bitclout.com/](https://bitclout.com)
+[https://bitclout.com/](https://bitclout.com/)
 
-[https://docs.deso.org/](https://docs.deso.org)
+[https://docs.deso.org/](https://docs.deso.org/)

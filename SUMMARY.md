@@ -2,10 +2,6 @@
 
 * [Start!](README.md)
 
-## Reading List
-
-* [스타트업 아이템 발굴부터 투자 유치까지](reading-list/undefined.md)
-
 ## Go\_lang
 
 * [Tutorial](go\_lang/tutorial.md)

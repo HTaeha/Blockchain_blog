@@ -110,6 +110,6 @@ Balancer나 Uniswap에 $RLY 유동성 풀을 등록하면 Rally에서 $RLY 보�
 
 ## Reference
 
-[https://rally.io/](https://rally.io)
+[https://rally.io/](https://rally.io/)
 
 [https://wiki.rally.io/rally-io/general-info/intro](https://wiki.rally.io/rally-io/general-info/intro)
